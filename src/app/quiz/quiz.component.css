@@ -1,0 +1,33 @@
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    bottom: 2px;
+    text-align: center;
+    font-size: 30px;
+    transform: translatex(-50%);
+}
+
+
+.vl {
+    border-left: 4px solid beige;
+    height: 40px;
+    border-radius: 4px;
+  }
+.w{
+width: 1000px;
+
+}
+
+.nv{
+background-color: #2d3246;
+}
+
+.footer {
+position:relative;
+left: 0;
+bottom: -502px;
+width: 100%;
+background-color:#00bcd4!important;
+color: black;
+
+}

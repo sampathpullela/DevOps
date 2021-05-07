@@ -1,0 +1,27 @@
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    bottom: 2px;
+    text-align: center;
+    font-size: 30px;
+    transform: translatex(-50%);
+}
+
+.w{
+width: 1000px;
+
+}
+
+.nv{
+background-color: #00bcd4!important;
+}
+
+.footer {
+position:relative;
+left: 0;
+bottom: -502px;
+width: 100%;
+background-color:#00bcd4!important;
+color: black;
+
+}
